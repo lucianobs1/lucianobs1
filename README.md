@@ -17,7 +17,7 @@
   <img align="center" alt="Luciano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luciano-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="Luciano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right"  alt="Luciano-pic" height="100" style="border-radius:50px;" src="https://64.media.tumblr.com/1eb66336e95d4f36f1713f5113a3689b/cd265649d5c353e8-59/s540x810/fb61952a5d9fa604890e3688f416ee14dd639a2e.gifv">
+  
 </div>
   
   ##
