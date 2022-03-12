@@ -1,5 +1,6 @@
 ## 👋 Olá !! Eu sou o Luciano Brandão 
 
+- 🎓 Formado em Ciências da Computação
 - 🔭 Estudante de Backend e FrontEnd,  ...
 - 🌱 Estudando Typescript, React, Node e ReactNative
 - 😄 Pronouns: ele/dele
