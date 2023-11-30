@@ -2,7 +2,7 @@
 
 - 🎓 Formado em Ciências da Computação
 - 🔭 Estudante de Backend e FrontEnd,  ...
-- 🌱 Estudando Typescript, React, Node e ReactNative
+- 🌱 Estudando Javascript e Desenvolvimento Mobile
 - 😄 Pronouns: ele/dele
 
 <div align="center">
